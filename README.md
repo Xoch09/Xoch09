@@ -22,7 +22,7 @@ Además de mi pasión por la tecnología. Realizo proyectos de arte manual y ten
 
 ¡Me encantaría conectarte contigo! Puedes encontrarme en los siguientes enlaces:
 
-- [LinkedIn]https://www.linkedin.com/in/xochluja/
-- [Correo electrónico] lunajarax@gmail.com
+- LinkedIn https://www.linkedin.com/in/xochluja/
+- Correo electrónico lunajarax@gmail.com
 
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xoch09_icons=true&count_private=true&hide_border=true" align="center" /></div>
